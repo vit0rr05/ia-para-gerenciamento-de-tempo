@@ -6,7 +6,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-## 🗂️ Categorias de Perguntas Frequentes
+## Categorias de Perguntas Frequentes
 
 ---
 
