@@ -1,6 +1,6 @@
 # Aplicação de IA: Gerenciamento de Tempo
 
-## 📌 Objetivo:
+## Objetivo:
 
 Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas e aumento da produtividade pessoal.
 
@@ -10,7 +10,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-### 1. 🗓️ Planejamento Diário
+### 1. Planejamento Diário
 
 | **Pergunta**                                       | **Resposta Esperada**                                                   |
 | -------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-### 2. 📆 Organização Semanal/Mensal
+### 2. Organização Semanal/Mensal
 
 | **Pergunta**                                            | **Resposta Esperada**                                                |
 | ------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-### 3. 🧠 Priorização e Produtividade
+### 3. Priorização e Produtividade
 
 | **Pergunta**                                         | **Resposta Esperada**                                                                 |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-### 4. 🔁 Adaptação e Reagendamento
+### 4. Adaptação e Reagendamento
 
 | **Pergunta**                                              | **Resposta Esperada**                                                 |
 | --------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ Utilizar uma IA para ajudar na organização do tempo, criação de cronogramas 
 
 ---
 
-### 5. 📊 Relatórios e Análise de Tempo
+### 5. Relatórios e Análise de Tempo
 
 | **Pergunta**                                | **Resposta Esperada**                                                      |
 | ------------------------------------------- | -------------------------------------------------------------------------- |
