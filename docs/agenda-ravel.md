@@ -14,3 +14,9 @@
 |            | Envio de cotações (11h–12h)        | Tarefa atrasada: atualizar portfólio (15h30–18h) |                          |
 | Sábado     | Projeto paralelo (9h–12h)          | Academia (14h–15h)                          | Sair com amigos (19h)         |
 | Domingo    | Descanso                         | Planejamento semanal (16h–17h)               | Ler um livro (20h)            |
+
+
+Insights
+Dia mais ocupado: Quarta-feira
+
+Horários flexíveis: Terça noite e Domingo
