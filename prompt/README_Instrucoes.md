@@ -26,13 +26,3 @@ Este repositório consolida o histórico de prompts, análises e refinamentos pa
 - Envie cada prompt para a IA e analise as respostas.
 - Faça anotações de melhorias usando os arquivos de refinamento.
 
----
-
-## Exportar documentação para PDF
-
-- Para gerar PDFs dos arquivos Markdown, siga o passo 3.
-
----
-
-## Contato
-Caso tenha dúvidas, entre em contato via [seu e-mail ou github].
